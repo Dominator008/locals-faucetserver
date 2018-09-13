@@ -16,7 +16,7 @@ class App extends Component {
         <section className="hero is-primary">
           <div className="hero-body">
             <div className="container">
-              <h1 className="title">Ropsten Ethereum Faucet</h1>
+              <h1 className="title">Celer Private Ethereum Faucet</h1>
             </div>
           </div>
         </section>
