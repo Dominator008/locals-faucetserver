@@ -1,0 +1,11 @@
+{
+	"etherscanroot": "",
+	"payoutfrequencyinsec": 1,
+	"payoutamountinether": 1,
+	"queuesize": 99999999,
+	"walletpwd": "celertest",
+	"httpport": 3008,
+	"web3": {
+                "host": "http://192.168.1.13:8545"
+	}
+}
